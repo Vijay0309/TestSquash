@@ -1,0 +1,2 @@
+# TestSquash
+Testing Squashing
